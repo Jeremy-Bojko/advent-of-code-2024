@@ -3,19 +3,19 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "start": "nodemon src/day04/main.ts"
+    "start": "nodemon src/day01/main.ts"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Jeremy-Bojko/adventofcode.git"
+    "url": "git+https://github.com/Jeremy-Bojko/advent-of-code-2024.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Jeremy-Bojko/adventofcode/issues"
+    "url": "https://github.com/Jeremy-Bojko/advent-of-code-2024/issues"
   },
-  "homepage": "https://github.com/Jeremy-Bojko/adventofcode#readme",
+  "homepage": "https://github.com/Jeremy-Bojko/advent-of-code-2024#readme",
   "devDependencies": {
     "@types/jest": "^29.5.10",
     "@types/lodash": "^4.14.191",
