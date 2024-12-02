@@ -12,7 +12,6 @@ utilities.fetchAndTest(inputData).then((data: string) => {
     .map((x) => x.split(" "))
     .map((x) => x.map((y) => parseInt(y)));
 
-  // let couldBeIncreasing = ;
   const results = reports.map((x) => (x[0] < x[1] ? isIncreasing(x) : isIncreasing(x.reverse())));
 
   console.log(results.filter((x) => x).length);
